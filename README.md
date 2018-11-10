@@ -15,4 +15,5 @@ tell the user to lower their amount.
 
 #Example of an item that does exist
 
-https://github.com/enguyen93/Bamazon/blob/master/images/doesexist.png
+![An item that doesn't exist](https://github.com/enguyen93/Bamazon/blob/master/images/doesexist.png)
+
