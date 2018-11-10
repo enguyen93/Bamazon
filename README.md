@@ -1,7 +1,8 @@
 ## Bamazon
 An Amazon-like storefront using MySQL
 
-When the application is run, the user will be shown the store's inventory. Then, using inquirer, the user will be prompted to
+When the application is run, using "node bamazonCustomer.js", the user will be shown the store's inventory. 
+Then, using inquirer, the user will be prompted to
 make a choice on which item they want to make a purchase of, and they will be required to enter an amount.
 
 If the item is not available, it will tell them to choose again until a valid item is chosen, if the amount is not available it will
